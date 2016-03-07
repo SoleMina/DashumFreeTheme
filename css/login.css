@@ -1,9 +1,14 @@
 h2 {
     background-color: #00FFFF;
-    font-size: 29px;
+    font-size: 22px;
+    text-transform: uppercase;
     color: white;
-    padding: 2% 2%;
+    padding: 4% 2%;
     text-align: center;
+    max-width: 100%;
+}
+#login-page {
+    max-width: 100%;
 }
 form {
     width: 30%;

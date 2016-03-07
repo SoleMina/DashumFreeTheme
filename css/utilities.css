@@ -1,0 +1,40 @@
+/* progress bar*/
+.form-panel {
+-webkit-box-shadow: 0.5px 2px 3px 3px rgba(201,193,201,1);
+-moz-box-shadow: 0.5px 2px 3px 3px rgba(201,193,201,1);
+box-shadow: 0.5px 2px 3px 3px rgba(201,193,201,1);
+}
+.form-control {
+	width: 98%;
+}
+.mb {
+	padding-top: 2%;
+}
+.form-panel {
+	padding-bottom: 1%;
+}
+.form-group #exampleInputEmail2, #exampleInputPassword2 {
+	margin-left: 4%;
+}
+.checkbox, .radio, .checkbox-inline, .fa-angle-right {
+	margin-left: 1%;
+}
+.fa-angle-right {
+	color: gray;
+}
+.form-panel .form-control {
+	margin-left: 1%;
+}
+#focusedInput {
+	border: 1px solid red;
+}
+.form-panel{
+    background-color: white;
+}
+.style-form .control-label {
+	position: relative;
+	left: -4%;
+}
+.help-block {
+	margin-left: 1%;
+}
