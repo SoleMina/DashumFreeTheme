@@ -1,0 +1,40 @@
+h2 {
+    background-color: #00FFFF;
+    font-size: 29px;
+    color: white;
+    padding: 2% 2%;
+    text-align: center;
+}
+form {
+    width: 30%;
+    background-color: white;
+    margin: auto;
+    margin-top: 6%;
+}
+input {
+    padding: 0 3% 0 3%;
+}
+.form-control {
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 94%;
+}
+.pull-right {
+    margin-right: 3%;
+}
+.btn-block {
+    margin-right: 4%;
+    margin-left: 4%;
+    width: 92%;
+}
+.login-social-link {
+    margin-left: 3%;
+}
+.registration {
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 6%;
+}
+i {
+    color: black;
+}
